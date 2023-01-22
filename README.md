@@ -3,7 +3,9 @@
 ### &nbsp;About Me :
 
 
-- 🌱 I’m currently learning: **.NET, AWS, Python**
+- 🌱 I’m currently studying: **.NET, AWS, Python**
+
+- 💻 Working at: [Parkmobile](https://parkmobile.nl/)
 
 - 📫 Feel free to reach out to me on: **Delangetimm@gmail.com**
 
