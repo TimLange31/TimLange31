@@ -3,7 +3,7 @@
 ### &nbsp;About Me :
 
 
-- 🌱 I’m currently studying: **.NET, AWS, Python**
+- 🌱 I’m working on: **.NET, AWS, Python**
 
 - 💻 Working at: [Parkmobile](https://parkmobile.nl/)
 
