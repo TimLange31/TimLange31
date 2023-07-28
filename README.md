@@ -5,7 +5,7 @@
 
 - 🌱 I’m working on: **.NET, AWS, Python**
 
-- 💻 Working at: [Parkmobile](https://parkmobile.nl/)
+- 💻 Working at: [Chipsoft](https://www.chipsoft.nl/)
 
 - 📫 Feel free to reach out to me on: **Delangetimm@gmail.com**
 
