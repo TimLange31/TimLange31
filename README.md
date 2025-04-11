@@ -1,24 +1,45 @@
-<h1 align="center">Hi there!👋 Welcome to my profile!</h1>
+<h1 align="center">Hi there! 👋 Welcome to my GitHub profile!</h1>
 
-### &nbsp;About Me :
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=.NET+Developer;Loves+Python+%26+AWS;Always+learning+something+new!" alt="Typing SVG" />
+</p>
 
+---
 
-- 🌱 I’m working on: **.NET, AWS, Python**
+### 👨‍💻 About Me:
 
-- 💻 Working at: [Chipsoft](https://www.chipsoft.nl/)
+- 🧠 Currently learning and working with **.NET**, **AWS**, and **Python**
+- 💼 Software Developer at [NLZiet](https://www.nlziet.nl/)
+- 🌍 Based in the Netherlands
+- 📫 Reach out: **Delangetimm@gmail.com**
 
-- 📫 Feel free to reach out to me on: **Delangetimm@gmail.com**
+---
+
+### 🧰 Tech Stack & Tools:
 
 <p align="left">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" width="40" height="40" alt="AWS" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://www.svgrepo.com/show/373632/go.svg" width="40" height="40" alt="Go" /></a>
+  <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Elasticsearch" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></a>
 </p>
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <br>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a>  <a href="[https://www.python.org](https://go.dev/)" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373632/go.svg" alt="python" width="40" height="40"/> </a> 
-  
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timlange31&theme=default" alt="GitHub Streak" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timlange31&layout=compact&hide_progress=true" alt="Top Languages" />
+</p>
+
+---
+
+⭐️ Thanks for visiting!
