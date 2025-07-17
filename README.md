@@ -18,7 +18,7 @@
 ### 🧰 Tech Stack & Tools:
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" width="40" height="40" alt="AWS" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://yt3.googleusercontent.com/8SG9uDv2ITO754-r_Uoq4_nkuBBzY8iD6piQ6t85eEANlA9v-9jTE9VFJ4YE2CkZftIQYlVM=s900-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="AWS" /></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://www.svgrepo.com/show/373632/go.svg" width="40" height="40" alt="Go" /></a>
