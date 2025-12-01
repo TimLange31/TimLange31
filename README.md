@@ -29,17 +29,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timlange31&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timlange31&layout=compact&hide_progress=true" alt="Top Languages" />
-</p>
-
----
-
-⭐️ Thanks for visiting!
