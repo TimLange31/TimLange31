@@ -27,9 +27,44 @@
 
 <h3 align="center">Most Used Languages</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimLange31&amp;layout=pie&amp;langs_count=8&amp;hide_border=true&amp;hide_title=true&amp;card_width=320" alt="Most Used Languages Pie Chart" />
-</p>
+<table align="center">
+  <tr>
+    <th>Language</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td>Go</td>
+    <td>33.9%</td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>33.7%</td>
+  </tr>
+  <tr>
+    <td>Svelte</td>
+    <td>12.8%</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>12.7%</td>
+  </tr>
+  <tr>
+    <td>HCL</td>
+    <td>4.9%</td>
+  </tr>
+  <tr>
+    <td>Dockerfile</td>
+    <td>0.7%</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>0.4%</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>0.4%</td>
+  </tr>
+</table>
 
 ---
 
