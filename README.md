@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Tim Lange</h1>
 
 <p align="center">
-  <strong>.NET Developer</strong> | Python & AWS | Building reliable software
+  <strong>Go & .NET Developer</strong> | Cloud & DevOps | Building reliable software
+</p>
+
+<p align="center">
+  <a href="https://github.com/TimLange31"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/t--lange/"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -10,9 +15,9 @@
 
 <p align="center">
   Software Developer at <a href="https://www.nlziet.nl/">NLZiet</a><br />
-  Working with <strong>.NET</strong>, <strong>AWS</strong>, and <strong>Python</strong><br />
+  Working with <strong>Go</strong>, <strong>.NET</strong>, and <strong>Python</strong>, backed by <strong>AWS</strong>/<strong>Azure</strong> infra and a bit of <strong>DevOps</strong> tooling<br />
   Based in the Netherlands<br />
-  Reach me at <a href="mailto:Delangetimm@gmail.com">Delangetimm@gmail.com</a>
+  Reach me at <a href="mailto:Delangetimm@gmail.com">Delangetimm@gmail.com</a> or on <a href="https://www.linkedin.com/in/t--lange/">LinkedIn</a>
 </p>
 
 ---
@@ -20,52 +25,15 @@
 <h3 align="center">Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,dotnet,cs,py,go,elasticsearch,git,linux,mysql&amp;theme=dark&amp;perline=9" alt="AWS, .NET, C#, Python, Go, Elasticsearch, Git, Linux, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=golang,dotnet,python,svelte,mongodb,mysql,elasticsearch,docker&amp;theme=dark&amp;perline=8" alt="Go, .NET, Python, Svelte, MongoDB, SQL, Elasticsearch, and Docker" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&amp;logo=argo&amp;logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&amp;logo=newrelic&amp;logoColor=000000" alt="New Relic" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="AWS" />
+</p>
 
-<h3 align="center">Most Used Languages</h3>
-
-<table align="center">
-  <tr>
-    <th>Language</th>
-    <th>Usage</th>
-  </tr>
-  <tr>
-    <td>Go</td>
-    <td>33.9%</td>
-  </tr>
-  <tr>
-    <td>C#</td>
-    <td>33.7%</td>
-  </tr>
-  <tr>
-    <td>Svelte</td>
-    <td>12.8%</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>12.7%</td>
-  </tr>
-  <tr>
-    <td>HCL</td>
-    <td>4.9%</td>
-  </tr>
-  <tr>
-    <td>Dockerfile</td>
-    <td>0.7%</td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>0.4%</td>
-  </tr>
-  <tr>
-    <td>TypeScript</td>
-    <td>0.4%</td>
-  </tr>
-</table>
-
----
-
-<p align="center">Thanks for visiting!</p>
